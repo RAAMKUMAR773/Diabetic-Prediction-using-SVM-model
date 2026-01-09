@@ -1,0 +1,1 @@
+# Diabetic-Prediction-using-SVM-model
